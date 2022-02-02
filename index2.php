@@ -72,7 +72,7 @@ include('includes/config.php');
                 <!---->
                 <div class="row">
                     <div class="col-md-3">
-                    <a class="remove-anchor-style" href="../StudPrep/Quizes/entc1.php">
+                    <a class="remove-anchor-style" href="Quizes/entc1.php">
                         <div class="work-box overlay shadow">
                        
                             <div class="work-icon">
@@ -90,7 +90,7 @@ include('includes/config.php');
                     </div>
                     <!---->
                 <div class="col-md-3">
-                <a class="remove-anchor-style" href="../StudPrep/Quizes/IT.php">
+                <a class="remove-anchor-style" href="Quizes/IT.php">
                     <div class="work-box overlay shadow">
                         
                         <div class="work-icon">
@@ -105,7 +105,7 @@ include('includes/config.php');
                 </div>
                     <!---->
                 <div class="col-md-3">
-                <a class="remove-anchor-style" href="../StudPrep/Quizes/mca.php">
+                <a class="remove-anchor-style" href="Quizes/mca.php">
                     <div class="work-box overlay shadow">
                         <div class="work-icon">
                             <i class="fas fa-book-reader"></i>
@@ -120,7 +120,7 @@ include('includes/config.php');
                 <!---->
                 
                     <div class="col-md-3">
-                    <a class="remove-anchor-style" href="../StudPrep/Quizes/electrical.php">
+                    <a class="remove-anchor-style" href="Quizes/electrical.php">
 
                         <div class="work-box overlay shadow">
                             <div class="work-icon">
@@ -142,7 +142,7 @@ include('includes/config.php');
     <br>
   
   
-  <script type="text/javascript" src="../Notes/notes.js"></script>
+  <script type="text/javascript" src="Notes/notes.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="table.js"></script>
     <script src="tab.js"></script>

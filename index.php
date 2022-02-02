@@ -526,7 +526,7 @@ else{
             </ul>
 </div>
 <div class="col-md-4">
-            <iframe src='https://webchat.botframework.com/embed/qna160712-bot?s=w1jE3wwx3AA.PYgjUdkqWd0KgBinIv02EiiWk0hfCZFuUS4EtxgMcho'  style='min-width: 300px; width: 30%; min-height: 250px; float:right !important; margin-left:600px;'></iframe>
+            <iframe  src='https://webchat.botframework.com/embed/studprep16-bot?s=TCgVzf7OtIk.Nh4LwLN7cQSFCaMAdZLDulwDET8kdI2yiWqcydCliBM'  style='min-width: 300px; width: 30%; min-height: 250px; float:right !important; margin-left:600px;'></iframe>
             </div>
         </div>
             </div>

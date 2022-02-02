@@ -4,7 +4,7 @@ error_reporting(0);
 include('includes/config.php');
 if(strlen($_SESSION['login'])==0)
 	{	
-header('location:index5.php');
+header('location:index.php');
 }
 else{
 if(isset($_POST['submit5']))

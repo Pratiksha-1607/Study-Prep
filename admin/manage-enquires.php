@@ -106,7 +106,7 @@ $msg="Enquiry  successfully read";
             </ol>
 
 
-			<?php include('D:\xampp\htdocs\StudPrep\Quizes\add_quiz.php');?>
+			<?php include('../Quizes/add_quiz.php');?>
 
 <!-- script-for sticky-nav -->
 		<script>

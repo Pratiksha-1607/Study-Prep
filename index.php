@@ -381,7 +381,7 @@ else{
        
         <div class="col-md-4 col-sm-6">
           <div class="service-box text-center" style="box-shadow:  0px 10px 15px 0px rgba(0,0,0,0.3),0px 10px 15px 0px rgba(0,0,0,0.3);border-radius: 5%;background-color:white;">
-          <a class="remove-anchor-style" href="../StudPrep/All-Resources/all-resources.php">
+          <a class="remove-anchor-style" href="All-Resources/all-resources.php">
           <div class="icon-box">
           <img src="Images/resources-icon.png" height="200px" class="card-img-top p-1"
                                     alt="resources-img">
@@ -396,7 +396,7 @@ else{
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="service-box text-center" style="box-shadow:  0px 10px 15px 0px rgba(0,0,0,0.3),0px 10px 15px 0px rgba(0,0,0,0.3);border-radius: 5%;background-color:white;">
-          <a class="remove-anchor-style" href="../StudPrep/index1.php">
+          <a class="remove-anchor-style" href="index1.php">
           <div class="icon-box">
           <img src="Images/relax-zone.png" height="200px" class="card-img-top p-1"
                                     alt="relax-zone-img">

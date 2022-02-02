@@ -82,7 +82,7 @@ include('includes/config.php');
                 
                 <div class="row" style="margin-left:300px;">
                     <div class="col-md-4">
-                    <a class="remove-anchor-style" href="../StudPrep/Focus-Time/todo.php">
+                    <a class="remove-anchor-style" href="Focus-Time/todo.php">
                         <div class="work-box overlay shadow">
                        
                             <div class="work-icon">
@@ -100,7 +100,7 @@ include('includes/config.php');
                     </div>
                     <!---->
                 <div class="col-md-4">
-                <a class="remove-anchor-style" href="../StudPrep/Focus-Time/calc.php">
+                <a class="remove-anchor-style" href="Focus-Time/calc.php">
                     <div class="work-box overlay shadow">
                         
                         <div class="work-icon">

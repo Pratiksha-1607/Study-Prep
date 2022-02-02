@@ -81,7 +81,7 @@ include('includes/config.php');
                 <!---->
                 <div class="row">
                     <div class="col-md-3">
-                    <a class="remove-anchor-style" href="../StudPrep/Notes/entc1.php">
+                    <a class="remove-anchor-style" href="Notes/entc1.php">
                         <div class="work-box overlay shadow">
                        
                             <div class="work-icon">
@@ -98,7 +98,7 @@ include('includes/config.php');
                     </div>
                     <!---->
                 <div class="col-md-3">
-                <a class="remove-anchor-style" href="../StudPrep/Notes/IT.php">
+                <a class="remove-anchor-style" href="Notes/IT.php">
                     <div class="work-box overlay shadow">
                         
                         <div class="work-icon">
@@ -114,7 +114,7 @@ include('includes/config.php');
                 </div>
                     <!---->
                 <div class="col-md-3">
-                <a class="remove-anchor-style" href="../StudPrep/Notes/mca.php">
+                <a class="remove-anchor-style" href="Notes/mca.php">
                     <div class="work-box overlay shadow">
                         <div class="work-icon">
                             <i class="fas fa-book-reader"></i>
@@ -129,7 +129,7 @@ include('includes/config.php');
                 <!---->
                 
                     <div class="col-md-3">
-                    <a class="remove-anchor-style" href="../StudPrep/Notes/electrical.php">
+                    <a class="remove-anchor-style" href="Notes/electrical.php">
 
                         <div class="work-box overlay shadow">
                             <div class="work-icon">

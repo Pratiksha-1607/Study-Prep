@@ -93,7 +93,7 @@ include('includes/config.php');
                 
                 <div class="row" style="margin-left:300px;">
                     <div class="col-md-4">
-                    <a class="remove-anchor-style" href="../StudPrep/Relax-Zone/music.html">
+                    <a class="remove-anchor-style" href="Relax-Zone/music.html">
                         <div class="work-box overlay shadow">
                        
                             <div class="work-icon">
@@ -110,7 +110,7 @@ include('includes/config.php');
                     </div>
                     <!---->
                 <div class="col-md-4">
-                <a class="remove-anchor-style" href="../StudPrep/Relax-Zone/TicTac.php">
+                <a class="remove-anchor-style" href="Relax-Zone/TicTac.php">
                     <div class="work-box overlay shadow">
                         
                         <div class="work-icon">

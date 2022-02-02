@@ -136,7 +136,7 @@ include('includes/config.php');
     <script src="tab.js"></script>
 
 
-    <?php include('D:\xampp\htdocs\StudPrep\includes\footer.php');?>
+    <?php include('../includes/footer.php');?>
 <!-- signup -->
 		
 	
